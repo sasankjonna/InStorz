@@ -16,6 +16,5 @@ artifacts:
     - css/*
     - images/*
     - Profile/*
-    - MgrDashBoard.html
-    
+    - MgrDashBoard.html    
     - CustDashBoard.html
