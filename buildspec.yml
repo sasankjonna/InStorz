@@ -1,0 +1,20 @@
+version: 0.1
+
+phases:
+  pre_build:
+    commands:
+      - echo nothing to do yet
+build:
+    commands:
+      - echo nothing to do yet
+artifacts:
+  files:
+    - index.html
+    - js/*
+    - AllDeals/*
+    - CSS/*
+    - images/*
+    - Profile/*
+    - MgrDashBoard.html
+
+    - MyWork.html
