@@ -12,9 +12,10 @@ artifacts:
     - index.html
     - js/*
     - AllDeals/*
+    - FeedBack/*
     - CSS/*
     - images/*
     - Profile/*
     - MgrDashBoard.html
-
-    - MyWork.html
+    - scss/*
+    - CustDashBoard.html
