@@ -22,5 +22,9 @@ artifacts:
     - AllDeals/css/*
     - AllDeals/css/images/*
     - AllDeals/js/*
+    - MyShop/css/*
+    - MyShop/js/*
+    - MyShop/images/*
+    - MyShop/*
     - Profile/css/*
     - Profile/js/*
