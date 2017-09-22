@@ -46,6 +46,31 @@ ul.support li a {
 	color: #fff;
 
 }
+
+ul.logoff{
+	padding: 0 1em 0 0em;
+	margin: 0;
+	float: right;
+}
+ul.logoff li{
+	display: inline-block;
+}
+ul.logoff li  label{
+	background: url(../images/img-sprite.png)-2px -27px;
+	width: 32px;
+	height: 30px;
+	display:inline-block;
+	vertical-align: middle;
+}
+ul.logoff li.van a label{
+	background-position: -46px -25px;
+}
+ul.logoff li a {
+	text-decoration:none;
+	font-size: 1.1em;
+	color: #fff;
+
+}
 .top-header-right{
 	float:right;
 	padding-top:8px;
